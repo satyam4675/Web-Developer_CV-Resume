@@ -73,6 +73,10 @@ body {
     letter-spacing: 1px;
     margin-bottom: 20px;
 }
+.contactInfo a {
+    text-decoration: none;
+    color: #fff;
+}
 .contactInfo ul {
     position: relative;
 }
